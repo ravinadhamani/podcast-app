@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Podcast-App/static/css/main.07e4c7a7.chunk.css",
+    "main.js": "/React-Podcast-App/static/js/main.b2b31fbb.chunk.js",
+    "main.js.map": "/React-Podcast-App/static/js/main.b2b31fbb.chunk.js.map",
+    "runtime-main.js": "/React-Podcast-App/static/js/runtime-main.2919bc4e.js",
+    "runtime-main.js.map": "/React-Podcast-App/static/js/runtime-main.2919bc4e.js.map",
+    "static/js/2.e96f2d6f.chunk.js": "/React-Podcast-App/static/js/2.e96f2d6f.chunk.js",
+    "static/js/2.e96f2d6f.chunk.js.map": "/React-Podcast-App/static/js/2.e96f2d6f.chunk.js.map",
+    "index.html": "/React-Podcast-App/index.html",
+    "precache-manifest.011a31b2f09eda6420182afd7af3cb15.js": "/React-Podcast-App/precache-manifest.011a31b2f09eda6420182afd7af3cb15.js",
+    "service-worker.js": "/React-Podcast-App/service-worker.js",
+    "static/css/main.07e4c7a7.chunk.css.map": "/React-Podcast-App/static/css/main.07e4c7a7.chunk.css.map",
+    "static/js/2.e96f2d6f.chunk.js.LICENSE.txt": "/React-Podcast-App/static/js/2.e96f2d6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2919bc4e.js",
+    "static/js/2.e96f2d6f.chunk.js",
+    "static/css/main.07e4c7a7.chunk.css",
+    "static/js/main.b2b31fbb.chunk.js"
+  ]
+}
