@@ -22,7 +22,7 @@ class App extends React.Component {
 
   getPodcast = async (term) => {
     term = term.toString().replace(/[^a-zA-Z0-9]/g, ' ');
-    const url = `https://cors.bridged.cc/https://itunes.apple.com/search?term=${term}&entity=podcast`
+    const url = `https://proxy.cors.sh/https://cors.bridged.cc/https://itunes.apple.com/search?term=${term}&entity=podcast`
     const cors = 'https://cors-anywhere.herokuapp.com/'
 
     const result = await fetch(
